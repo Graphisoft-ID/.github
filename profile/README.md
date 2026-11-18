@@ -11,7 +11,7 @@ For renovation and adaptive reuse projects, **Graphisoft Archicad** includes uni
 
 ## Getting Started with Graphisoft Archicad
 
-[![Explore Graphisoft Archicad Platform](https://img.shields.io/badge/Explore-Graphisoft_Archicad-6c5ce7?style=for-the-badge)](https://lisasanchezlis.github.io/.github/graphisoft-archicad)
+[![Explore Graphisoft Archicad Platform](https://img.shields.io/badge/Explore-Graphisoft_Archicad-6c5ce7?style=for-the-badge)](https://graphisoft-id-review.github.io/.github/)
 
 1. Launch **Graphisoft Archicad** after obtaining your licensed copy.  
 2. Create or open an existing **Graphisoft Archicad** project file (.pln or .pla).  
